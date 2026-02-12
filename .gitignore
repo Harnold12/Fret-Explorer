@@ -1,0 +1,11 @@
+# Pastas de compilação do PyInstaller
+build/
+dist/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Dados locais (Presets teste).
+guitar_presets.json
