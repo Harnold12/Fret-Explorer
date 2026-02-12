@@ -62,5 +62,5 @@ Development followed a logical sequence of 26 steps, starting from the mapping o
 
 ## 👤 Author
 **Henrique Arnold**
-* Computer Engineering Student
+* Computer Engineering Student - SENAI CIMATEC
 * Fret Explorer © 2026
